@@ -3,3 +3,6 @@ D:\Local Projects\Observer Design pattern\Observer Design pattern\bin\Debug\Obse
 D:\Local Projects\Observer Design pattern\Observer Design pattern\bin\Debug\Observer Design pattern.pdb
 D:\Local Projects\Observer Design pattern\Observer Design pattern\obj\Debug\Observer Design pattern.exe
 D:\Local Projects\Observer Design pattern\Observer Design pattern\obj\Debug\Observer Design pattern.pdb
+D:\Play ground\Observer Design pattern\Observer Design pattern\bin\Debug\Observer Design pattern.exe.config
+D:\Play ground\Observer Design pattern\Observer Design pattern\obj\Debug\Observer Design pattern.exe
+D:\Play ground\Observer Design pattern\Observer Design pattern\obj\Debug\Observer Design pattern.pdb
